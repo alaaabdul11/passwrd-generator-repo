@@ -34,16 +34,16 @@ The function `password_generator()`:
    
 ##  Output Exampe 
 - Password with numbers and symbols
-    Enter password length: 6
-    Include numbers? (y/n): y
-    Include symbols? (y/n): y
+   - Enter password length: 6
+   - Include numbers? (y/n): y
+   - Include symbols? (y/n): y
     
-    Generated Password: cn4YnW
+   - Generated Password: cn4YnW
   
 - Password with letters only
-    Enter password length: 9
-    Include numbers? (y/n): n
-    Include symbols? (y/n): n
+   - Enter password length: 9
+   - Include numbers? (y/n): n
+   - Include symbols? (y/n): n
     
-    Generated Password: wrKizYRQZ
+   - Generated Password: wrKizYRQZ
  
